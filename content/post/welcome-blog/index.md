@@ -1,9 +1,9 @@
 ---
 title: Welcome Blog
 weight: 10
-description:My CTF Journey: A Beginner's Exploration of Cybersecurity
+description:Becoming An IT Professional
 slug: welcome-blog
-date: 2023-06-03 00:00:00+0000
+date: 2024-11-26 00:00:00+0000
 image: cover.jpg
 categories:
     - General
@@ -12,7 +12,7 @@ tags:
 ---
 ## Introduction
 
-Hello, fellow cybersecurity enthusiasts! Welcome to my CTF Journey, where I, will be sharing my experiences, challenges, and triumphs as I embark on a thrilling adventure into the world of Capture The Flag (CTF) competitions. This blog will primarily revolve around CTFs, as I dive headfirst into this captivating realm of cybersecurity.
+Hey, my name is Faith Muthengi and this is a compilation of projects and reports I've worked on to reach my goal of being a professional. These projects mainly focus on cybersecurity which is my major field of interest, including reports on completed TryHackMe and HackTheBox rooms and CTFs
 
 ## About Me
 
