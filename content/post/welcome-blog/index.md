@@ -1,7 +1,7 @@
 ---
 title: Welcome Blog
 weight: 10
-description:Becoming An IT Professional
+description: Becoming An IT Professional
 slug: welcome-blog
 date: 2024-11-26 00:00:00+0000
 image: cover.jpg
