@@ -10,15 +10,15 @@
 [[social]]
 identifier = "github"
 name = "GitHub"
-url = "https://github.com/dr0idbot"
+url = "https://github.com/FaeyMut"
 
 [social.params]
 icon = "brand-github"
 
 [[social]]
 identifier = "twitter"
-name = "Twitter"
-url = "https://twitter.com/dr0idbot"
+name = "LinkedIn"
+url = "https://www.linkedin.com/in/faithmuthengi/"
 
 [social.params]
 icon = "brand-twitter"
