@@ -16,9 +16,9 @@ url = "https://github.com/FaeyMut"
 icon = "brand-github"
 
 [[social]]
-identifier = "twitter"
+identifier = "linkedin"
 name = "LinkedIn"
 url = "https://www.linkedin.com/in/faithmuthengi/"
 
 [social.params]
-icon = "brand-twitter"
+icon = "brand-linkedin"
