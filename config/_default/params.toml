@@ -54,7 +54,7 @@ limit = 10
 [[widgets.page]]
 type = "toc"
 
-[opengraph.twitter]
+[opengraph.linkedin]
 site = ""
 card = "summary_large_image"
 
